@@ -1,6 +1,6 @@
 # Memory Matrix Game
 
-A browser-based memory game inspired by the classic Simon Says game. Test your memory by repeating increasingly complex sequences of colored buttons!
+A browser-based memory game inspired by the classic Simon Says game. Test your memory by repeating increasingly complex sequences of colored buttons.
 
 ## 🎮 About the Game
 
