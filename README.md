@@ -23,7 +23,7 @@ Memory Matrix is a simple yet challenging game where players must remember and r
 4. **Advance Levels**: Successfully repeat the sequence to move to the next level
 5. **Keep Going**: Each level adds one more button to the sequence
 6. **Game Over**: If you click the wrong button, the game ends and shows your final score
-7. **Try Again**: Press any key to restart and beat your previous score!
+7. **Try Again**: Press any key to restart and beat your previous score
 
 ## 🚀 Getting Started
 
