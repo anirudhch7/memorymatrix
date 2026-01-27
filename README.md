@@ -8,12 +8,12 @@ Memory Matrix is a simple yet challenging game where players must remember and r
 
 ## ✨ Features
 
-- **Progressive Difficulty**: Each level adds one more step to the sequence
-- **Visual Feedback**: Buttons flash to show the pattern you need to remember
-- **Sound Effects**: Each color has a unique sound to help with memory
-- **Score Tracking**: Your level is displayed as your score
-- **Game Over Animation**: Visual feedback when you make a mistake
-- **Keyboard Start**: Press any key to start or restart the game
+- **Progressive Difficulty**: Each level adds one more step to the sequence.
+- **Visual Feedback**: Buttons flash to show the pattern you need to remember.
+- **Sound Effects**: Each color has a unique sound to help with memory.
+- **Score Tracking**: Your level is displayed as your score.
+- **Game Over Animation**: Visual feedback when you make a mistake.
+- **Keyboard Start**: Press any key to start or restart the game.
 
 ## 🎯 How to Play
 
