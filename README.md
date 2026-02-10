@@ -17,13 +17,13 @@ Memory Matrix is a simple yet challenging game where players must remember and r
 
 ## 🎯 How to Play
 
-1. **Start the Game**: Press any key on your keyboard to begin
-2. **Watch the Pattern**: The game will flash a colored button and play its sound
-3. **Repeat the Sequence**: Click the buttons in the same order as shown
-4. **Advance Levels**: Successfully repeat the sequence to move to the next level
-5. **Keep Going**: Each level adds one more button to the sequence
-6. **Game Over**: If you click the wrong button, the game ends and shows your final score
-7. **Try Again**: Press any key to restart and beat your previous score
+1. **Start the Game**: Press any key on your keyboard to begin.
+2. **Watch the Pattern**: The game will flash a colored button and play its sound.
+3. **Repeat the Sequence**: Click the buttons in the same order as shown.
+4. **Advance Levels**: Successfully repeat the sequence to move to the next level.
+5. **Keep Going**: Each level adds one more button to the sequence.
+6. **Game Over**: If you click the wrong button, the game ends and shows your final score.
+7. **Try Again**: Press any key to restart and beat your previous score.
 
 ## 🚀 Getting Started
 
@@ -47,17 +47,17 @@ Memory Matrix is a simple yet challenging game where players must remember and r
 3. Open `index.html` in your web browser:
    - Double-click the `index.html` file, or
    - Right-click and select "Open with" your preferred browser, or
-   - Use a local development server
+   - Use a local development server.
 
 4. Press any key to start playing!
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: Structure and layout
-- **CSS3**: Styling and animations
-- **JavaScript**: Game logic and interactivity
-- **jQuery**: DOM manipulation and event handling
-- **Google Fonts**: "Press Start 2P" retro-style font
+- **HTML5**: Structure and layout.
+- **CSS3**: Styling and animations.
+- **JavaScript**: Game logic and interactivity.
+- **jQuery**: DOM manipulation and event handling.
+- **Google Fonts**: "Press Start 2P" retro-style font.
 
 ## 📁 Project Structure
 
@@ -86,11 +86,11 @@ The game features four colored buttons:
 ## 🤝 Contributing
 
 Feel free to fork this repository and submit pull requests to contribute to the game. Some ideas for enhancements:
-- Add difficulty levels
-- Implement a high score system with local storage
-- Add more colors/buttons for increased difficulty
-- Create a mobile-responsive design
-- Add additional sound themes
+- Add difficulty levels.
+- Implement a high score system with local storage.
+- Add more colors/buttons for increased difficulty.
+- Create a mobile-responsive design.
+- Add additional sound themes.
 
 ## 📄 License
 
