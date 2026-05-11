@@ -17,6 +17,7 @@ Memory Matrix is a simple yet challenging game where players must remember and r
 - **Game Over Animation**: Visual feedback when you make a mistake.
 - **Keyboard Start**: Press any key to start or restart the game.
 
+
 ## 🎯 How to Play
 
 1. **Start the Game**: Press any key on your keyboard to begin.
@@ -27,7 +28,9 @@ Memory Matrix is a simple yet challenging game where players must remember and r
 6. **Game Over**: If you click the wrong button, the game ends and shows your final score.
 7. **Try Again**: Press any key to restart and beat your previous score.
 
+
 ## 🚀 Getting Started
+
 
 ### Prerequisites
 
@@ -52,6 +55,7 @@ Memory Matrix is a simple yet challenging game where players must remember and r
    - Use a local development server.
 
 4. Press any key to start playing!
+
 
 ## 🛠️ Technologies Used
 
