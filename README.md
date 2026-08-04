@@ -2,7 +2,6 @@
 
 A browser-based memory game inspired by the classic Simon Says game. Test your memory by repeating increasingly complex sequences of colored buttons.
 
-
 ## 🎮 About the Game
 
 Memory Matrix is a simple yet challenging game where players must remember and repeat a sequence of colored button flashes. Each level adds a new color to the sequence, making it progressively harder.
@@ -30,7 +29,6 @@ Memory Matrix is a simple yet challenging game where players must remember and r
 
 ## 🚀 Getting Started
 
-
 ### Prerequisites
 
 - A modern web browser (Chrome, Firefox, Safari, or Edge)
@@ -54,7 +52,6 @@ Memory Matrix is a simple yet challenging game where players must remember and r
    - Use a local development server.
 
 4. Press any key to start playing!
-
 
 ## 🛠️ Technologies Used
 
